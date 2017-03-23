@@ -1,3 +1,18 @@
+/*
+print
+
+54321
+5432
+543
+54
+5
+***********************************************
+1
+22
+333
+4444
+55555
+*/
 class ForLoopPrint{
     public static void main( String [] args)
         {
