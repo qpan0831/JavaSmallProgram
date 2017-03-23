@@ -1,7 +1,11 @@
 /**
  * Created by Qiang Pan on 3/23/2017.
- * Print Star
-
+Print Star
+*****
+****
+***
+**
+*
  */
 public class PrintStar {
     public static void main (String[] args)
