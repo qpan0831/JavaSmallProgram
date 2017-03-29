@@ -1,4 +1,11 @@
-
+/*
+outpout
+* * * * *  
+ * * * *  
+  * * *  
+   * *  
+    *  
+ */
 public class ForForLoop {
 	public static void main (String [] args)
 	{
