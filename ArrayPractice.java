@@ -1,4 +1,4 @@
-
+//This is a method to transfer a int to hex number
 public class ArrayPractice {
 	public static void main(String[] args)
 	{
