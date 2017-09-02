@@ -64,6 +64,4 @@ Student_List= sorted(Student_List, key = lambda Student : Student.last)
 
 for i in Student_List:
     print(i.id, i.first, i.last, i.grade)
-
-
-This is used for test GIt
+#HOMEWORK
