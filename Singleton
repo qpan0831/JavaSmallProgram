@@ -1,0 +1,19 @@
+class Single{
+  public static void main(String[] args)
+  {
+    Singleton s1 = Singleton.getIntance();
+    Singleton s2 = Singleton.getIntance();
+    System.out.println(s1==s2)
+  }
+}
+
+class Singleton{
+  prviate static Singleton s= null;
+  prviate Singleton(){}
+  public static Singleton getIntance()
+  {
+    if(s==null)
+      s=new Singleton();
+    return s;
+  }
+} 
